@@ -1,0 +1,18 @@
+body{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    text-align: center;
+}
+img{
+    width: 15%;
+    padding: 5px;
+}
+.badger_img{
+    height: fit-content;
+    margin-right: auto;
+}
+header{
+    text-align: right;
+    
+}
